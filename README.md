@@ -139,10 +139,6 @@ Mltimodal-RAG/
 └── uv.lock                 # Lock file for reproducible builds
 ```
 
-## 🤝 Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve this multimodal RAG system.
-
 ## 📄 License
 
 This project is open source and available under the MIT License.
